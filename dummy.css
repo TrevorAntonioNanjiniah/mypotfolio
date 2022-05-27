@@ -1,0 +1,21 @@
+h3{color:red;
+    text-align:center;
+    font-size:30px}
+    p{text-align: justify;
+background-color: aliceblue;
+          /* margin-top: 300px;
+        margin-bottom: 200px;
+        margin-right: 100px;
+        margin-left: 100px;} */
+     margin-left: 100px;
+     margin-right: 100px;
+     padding-left: 100px;
+     padding-right: 100px;}
+     
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-bottom: 2px dashed red;
+}
